@@ -1,0 +1,45 @@
+b15Feb2020SatMyGItPractice3
+
+doubt couldn't pull github.com/javawithJayramrout/batch32 into
+[JavaBatch32Hannah]
+
+
+
+h19SL@LAPTOP-I7UJGI2C MINGW64 ~
+$ cd IdeaProjects
+
+h19SL@LAPTOP-I7UJGI2C MINGW64 ~/IdeaProjects (master)
+$ cd [JavaBatch32Hannah]
+
+h19SL@LAPTOP-I7UJGI2C MINGW64 ~/IdeaProjects/[JavaBatch32Hannah] (master)
+$ dir
+
+h19SL@LAPTOP-I7UJGI2C MINGW64 ~/IdeaProjects/[JavaBatch32Hannah] (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+h19SL@LAPTOP-I7UJGI2C MINGW64 ~/IdeaProjects/[JavaBatch32Hannah] (master)
+$ git pull git@github.com:jayramrout/batch32.git
+The authenticity of host 'github.com (192.30.253.113)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com,192.30.253.113' (RSA) to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+h19SL@LAPTOP-I7UJGI2C MINGW64 ~/IdeaProjects/[JavaBatch32Hannah] (master)
+====11:10 PM 2/15/2020+++++++++==================
+
+
+
+
+
+
+
